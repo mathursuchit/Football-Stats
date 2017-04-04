@@ -16,3 +16,5 @@ attkcluster$cluster
 player_individualdata[,20]<-attkcluster$cluster
 names(player_individualdata)[20]<-paste("Cluster(goals v shots on target)")
 View(player_individualdata)
+
+kinni
